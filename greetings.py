@@ -3,6 +3,7 @@ title = "Logins"
 content = "Here I can store my logins"
 status = "Active"
 created_date = "26-12-2024"
+issue_date = "29-12-2024"
 
 print("Username:", username)
 print("Note title:", title)
